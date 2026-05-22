@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ━━━━━━━━━━━━━━━━  ANIMATED HEADER  ━━━━━━━━━━━━━━━━ -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:2d1b69,100:0f0c29&height=300&section=header&text=ALHYSSON%20SAQUETO&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=⚡%20Transformando%20ideias%20em%20soluções%20inteligentes&descSize=20&descAlignY=63&descColor=c084fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:2d1b69,100:0f0c29&height=280&section=header&text=ALHYSSON%20SAQUETO&fontSize=62&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=⚡%20Transformando%20ideias%20em%20soluções%20inteligentes&descSize=20&descAlignY=63&descColor=c084fc" width="100%"/>
 
 <!-- ━━━━━━━━━━━━━━━━  TYPING SVG  ━━━━━━━━━━━━━━━━ -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=600&color=A855F7&center=true&vCenter=true&width=820&lines=🚀+CEO+do+Hub+de+Inovação+Ignite;🤖+IA+Local+%7C+Agentes+Autônomos+%7C+Machine+Learning;🏆+Vencedor+do+Gênesis+II+—+Campeonato+de+Startups;📊+Dashboards+Inteligentes+%7C+Data+Science;💻+Ciência+da+Computação+%7C+Full+Stack+Dev;🤖+Unimate+Team+%7C+Robótica+%7C+ESP32+%7C+Arduino;🥇+Ouro+Estadual+—+Maratona+Tech+2024)](https://git.io/typing-svg)
@@ -373,6 +373,6 @@
 <br/>
 
 <!-- ━━━━━━━━━━━━━━━━  ANIMATED FOOTER  ━━━━━━━━━━━━━━━━ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0f0c29&height=160&section=footer&text=Obrigado%20pela%20visita!%20⚡&fontSize=28&fontColor=c084fc&fontAlignY=70&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d1b69,100:0d0221&height=160&section=footer&text=Obrigado%20pela%20visita!%20⚡&fontSize=28&fontColor=c084fc&fontAlignY=70&animation=twinkling" width="100%"/>
 
 </div>
